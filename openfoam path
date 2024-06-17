@@ -1,0 +1,10 @@
+OpenFOAM/dell-11/run/openfoam11/tutorials/legacy/incompressible/icoFoam/cavity
+
+Open Foam commands
+
+1. ParaFoam >log &
+   cat log
+   
+2. No iteration 0 - indicates that the solution has been converged
+
+
